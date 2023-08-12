@@ -32,3 +32,4 @@ bld/
 TestResult.xml
 
 # Build Results of an ATL Project
+[Dd]ebugPS/
