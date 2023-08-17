@@ -37,3 +37,4 @@ TestResult.xml
 dlldata.c
 
 # DNX
+project.lock.json
