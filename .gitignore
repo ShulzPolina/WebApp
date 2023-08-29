@@ -45,3 +45,4 @@ artifacts/
 *_i.h
 *.ilk
 *.meta
+*.obj
