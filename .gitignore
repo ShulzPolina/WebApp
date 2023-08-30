@@ -46,3 +46,4 @@ artifacts/
 *.ilk
 *.meta
 *.obj
+*.pch
