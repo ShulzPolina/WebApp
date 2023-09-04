@@ -51,3 +51,4 @@ artifacts/
 *.pgc
 *.pgd
 *.rsp
+*.sbr
