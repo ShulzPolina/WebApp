@@ -55,3 +55,4 @@ artifacts/
 *.tlb
 *.tli
 *.tlh
+*.tmp
