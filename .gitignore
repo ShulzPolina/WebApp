@@ -57,3 +57,4 @@ artifacts/
 *.tlh
 *.tmp
 *.tmp_proj
+*.log
