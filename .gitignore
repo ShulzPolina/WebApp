@@ -58,3 +58,4 @@ artifacts/
 *.tmp
 *.tmp_proj
 *.log
+*.vspscc
