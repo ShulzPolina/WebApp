@@ -60,3 +60,4 @@ artifacts/
 *.log
 *.vspscc
 *.vssscc
+.builds
