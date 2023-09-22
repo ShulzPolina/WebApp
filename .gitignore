@@ -66,3 +66,4 @@ artifacts/
 *.scc
 
 # Chutzpah Test files
+_Chutzpah*
