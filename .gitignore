@@ -78,3 +78,4 @@ ipch/
 *.cachefile
 
 # Visual Studio profiler
+*.psess
