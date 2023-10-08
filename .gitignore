@@ -84,3 +84,4 @@ ipch/
 *.sap
 
 # TFS 2012 Local Workspace
+$tf/
