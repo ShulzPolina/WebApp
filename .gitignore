@@ -87,3 +87,4 @@ ipch/
 $tf/
 
 # Guidance Automation Toolki
+*.gpState
