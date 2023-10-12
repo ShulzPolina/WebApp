@@ -90,3 +90,4 @@ $tf/
 *.gpState
 
 # ReSharper is a .NET coding add-in
+_ReSharper*/
