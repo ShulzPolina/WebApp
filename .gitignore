@@ -98,3 +98,4 @@ _ReSharper*/
 .JustCode
 
 # TeamCity is a build add-in
+_TeamCity*
