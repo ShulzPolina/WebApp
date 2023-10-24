@@ -104,3 +104,4 @@ _TeamCity*
 *.dotCover
 
 # NCrunch
+_NCrunch_*
