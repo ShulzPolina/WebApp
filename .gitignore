@@ -109,3 +109,4 @@ _NCrunch_*
 nCrunchTemp_*
 
 # MightyMoose
+*.mm.*
