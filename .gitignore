@@ -120,3 +120,4 @@ AutoTest.Net/
 
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
+DocProject/Help/*.HxT
