@@ -132,3 +132,4 @@ DocProject/Help/html
 publish/
 
 # Publish Web Output
+*.[Pp]ublish.xml
