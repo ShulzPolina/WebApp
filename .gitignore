@@ -140,3 +140,4 @@ publish/
 *.publishproj
 
 # NuGet Packages
+*.nupkg
