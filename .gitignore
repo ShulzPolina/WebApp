@@ -149,3 +149,4 @@ publish/
 #!**/packages/repositories.config
 
 # Microsoft Azure Build Output
+csx/
